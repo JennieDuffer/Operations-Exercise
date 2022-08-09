@@ -1,0 +1,15 @@
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\bin\Debug\net6.0\OperationExercise.exe
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\bin\Debug\net6.0\OperationExercise.deps.json
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\bin\Debug\net6.0\OperationExercise.runtimeconfig.json
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\bin\Debug\net6.0\OperationExercise.dll
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\bin\Debug\net6.0\OperationExercise.pdb
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.csproj.AssemblyReference.cache
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.AssemblyInfo.cs
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.dll
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\refint\OperationExercise.dll
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.pdb
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\OperationExercise.genruntimeconfig.cache
+C:\Users\jenni\Desktop\Repos\OperationExercise\OperationExercise\obj\Debug\net6.0\ref\OperationExercise.dll
